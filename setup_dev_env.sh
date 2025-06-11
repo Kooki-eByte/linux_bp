@@ -12,7 +12,7 @@ PACKAGES=(
   vulkan-headers vulkan-icd-loader
   xorg xorg-xinit xorg-xinput xorg-xprop
   libx11 libxcb libxkbcommon
-  base-devel bash curl git iputils
+  base-devel curl git iputils
   openssh openssh-server openssl
   tmux unzip wget lsof yq zsh
 )
